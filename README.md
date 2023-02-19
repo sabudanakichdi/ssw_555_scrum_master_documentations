@@ -9,6 +9,6 @@ The objective of developing a prototype Solar Project Management tool that conne
 ## Project Managemnt Tool: 
 - JIRA: https://teambravo.atlassian.net/jira/software/projects/S5/boards/1/roadmap
 
-###Agile Methodology:
+### Agile Methodology:
 - Scrum Agile Methodology
 
