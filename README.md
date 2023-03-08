@@ -12,3 +12,6 @@ The objective of developing a prototype Solar Project Management tool that conne
 ### Agile Methodology:
 - Scrum Agile Methodology
 
+### Project URL:
+- https://github.com/sabudanakichdi/ssw555_agile_project
+
